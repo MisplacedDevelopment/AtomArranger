@@ -10,13 +10,17 @@ There is a 4 and 8 track version of the session.  If you know that you will not 
 I do not recommend that you buy any apps just for the purposes of trying this session out unless you can afford to, or unless you can get some use out of them independently from this AUM session.
 
 Documentation:
+
 https://github.com/MisplacedDevelopment/AtomArranger/blob/main/docs/AtomArranger.pdf
 
 AUM projects:
+
 4 Tracks (click Download button):
+
 https://github.com/MisplacedDevelopment/AtomArranger/blob/main/AUM/AtomCtrl4Trackv1.0.aumproj
 
 8 Tracks (click Download button):
+
 https://github.com/MisplacedDevelopment/AtomArranger/blob/main/AUM/AtomCtrl8Trackv1.0.aumproj
 
 The following apps are required:
