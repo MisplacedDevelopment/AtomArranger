@@ -32,7 +32,6 @@ The following apps are required:
 
 The following apps are optional:
 
-1. mfxStrip (you do not need this if you have a controller which can easily switch MIDI output channel but you will need to wire it up yourself in AUM!) - https://apps.apple.com/us/app/mfxstrip/id1451194722
-2. Loopy Pro (for the user interface, not sure if the free version will work or not) - https://apps.apple.com/us/app/loopy-pro-looper-daw-sampler/id1492670451
-3. Tonality (if you care about seeing the musical notes on a staff) - https://apps.apple.com/us/app/tonality-music-theory/id1467552236
-4. Viking Synth (used as a demo instrument) (free) - https://apps.apple.com/us/app/viking-synth/id1085274012
+1. Loopy Pro (for the user interface, not sure if the free version will work or not) - https://apps.apple.com/us/app/loopy-pro-looper-daw-sampler/id1492670451
+2. Tonality (if you care about seeing the musical notes on a staff) - https://apps.apple.com/us/app/tonality-music-theory/id1467552236
+3. Viking Synth (used as a demo instrument) (free) - https://apps.apple.com/us/app/viking-synth/id1085274012
